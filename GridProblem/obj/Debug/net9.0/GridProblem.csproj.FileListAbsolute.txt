@@ -1,0 +1,15 @@
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\bin\Debug\net9.0\GridProblem.exe
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\bin\Debug\net9.0\GridProblem.deps.json
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\bin\Debug\net9.0\GridProblem.runtimeconfig.json
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\bin\Debug\net9.0\GridProblem.dll
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\bin\Debug\net9.0\GridProblem.pdb
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.AssemblyInfoInputs.cache
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.AssemblyInfo.cs
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.csproj.CoreCompileInputs.cache
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.sourcelink.json
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.dll
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\refint\GridProblem.dll
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.pdb
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\GridProblem.genruntimeconfig.cache
+C:\Users\adlt4\RiderProjects\GridProblem\GridProblem\obj\Debug\net9.0\ref\GridProblem.dll
