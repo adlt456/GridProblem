@@ -1,5 +1,6 @@
 using GridProblem.Comparers;
 using GridProblem.Interfaces;
+using GridProblem.Models;
 using GridProblem.Services;
 
 namespace GridProblemTest;

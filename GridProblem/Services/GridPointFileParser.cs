@@ -1,4 +1,5 @@
 using GridProblem.Interfaces;
+using GridProblem.Models;
 
 namespace GridProblem.Services;
 
@@ -32,17 +33,4 @@ public class GridPointFileParser : IFileParser
 
         return result;
     }
-}
-
-public class GridPoint
-{
-    public double X;
-    public double Y;
-
-}
-
-public class ClassifiedGridPoint : GridPoint
-{
-    public int Row;
-    public int Column;
 }

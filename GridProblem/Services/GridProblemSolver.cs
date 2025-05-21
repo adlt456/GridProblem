@@ -1,4 +1,5 @@
 using GridProblem.Interfaces;
+using GridProblem.Models;
 
 namespace GridProblem.Services;
 

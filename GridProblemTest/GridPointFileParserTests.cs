@@ -1,5 +1,6 @@
 using System.Text.Json;
 using GridProblem.Interfaces;
+using GridProblem.Models;
 using GridProblem.Services;
 
 namespace GridProblemTest;
